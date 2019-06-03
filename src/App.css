@@ -46,11 +46,12 @@
 }
 .footer {
   height: 60px;
-  background: #adb7cc;
+  background: #282c34;
   /* align-items: center; */
   text-align: center;
   margin-top: 20px;
   padding-top: 20px;
+  color: lightgrey;
 }
 .message {
   text-align: center;
